@@ -32,7 +32,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/emobilis/Desktop/CareCloud",
+    "last_opened_file_path": "/home/emobilis/Desktop/eTravel",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1771827566817</updated>
       <workItem from="1772005068167" duration="938000" />
+      <workItem from="1772091910485" duration="504000" />
+      <workItem from="1772175458197" duration="2049000" />
     </task>
     <servers />
   </component>
